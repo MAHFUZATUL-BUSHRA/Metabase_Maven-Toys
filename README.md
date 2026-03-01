@@ -1,6 +1,6 @@
 # 🧸 Mexico Toy Sales & Inventory Analysis using Metabase
 
-🚀 Today I explored **Metabase with Supabase**, spinning everything up using **Docker**.  
+🚀 I explored **Metabase with Supabase**, spinning everything up using **Docker**.  
 This project analyzes the **Maven Toys dataset** to uncover insights on sales performance and inventory trends using interactive BI dashboards.
 
 ---
