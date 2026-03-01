@@ -23,32 +23,27 @@ This project analyzes the **Maven Toys dataset** to uncover insights on sales pe
 
 ## 📄 Project Report (Page-wise Links)
 
-### 📘 Page 1 – Project Introduction  
-🔗 [View PDF - Page 1](PASTE_PAGE_1_LINK)
+### 📘 Page 1 
+![p](https://github.com/MAHFUZATUL-BUSHRA/Metabase_Maven-Toys/blob/main/Metabase%20Project/Pictures/1.png)
+![p](https://github.com/MAHFUZATUL-BUSHRA/Metabase_Maven-Toys/blob/main/Metabase%20Project/Pictures/2.png)
 
 ### 📘 Page 2 – Dataset Overview (Maven Toys)  
-🔗 [View PDF - Page 2](PASTE_PAGE_2_LINK)
+![p](https://github.com/MAHFUZATUL-BUSHRA/Metabase_Maven-Toys/blob/main/Metabase%20Project/Pictures/3.png)
+![p](https://github.com/MAHFUZATUL-BUSHRA/Metabase_Maven-Toys/blob/main/Metabase%20Project/Pictures/4.png)
 
-### 📘 Page 3 – System Architecture (Docker + Supabase + Metabase)  
-🔗 [View PDF - Page 3](PASTE_PAGE_3_LINK)
+### 📘 Page 3 
+![p](https://github.com/MAHFUZATUL-BUSHRA/Metabase_Maven-Toys/blob/main/Metabase%20Project/Pictures/5.png)
+![p](https://github.com/MAHFUZATUL-BUSHRA/Metabase_Maven-Toys/blob/main/Metabase%20Project/Pictures/6.png)
+![p](https://github.com/MAHFUZATUL-BUSHRA/Metabase_Maven-Toys/blob/main/Metabase%20Project/Pictures/7.png)
 
 ### 📘 Page 4 – Data Exploration & Schema Understanding  
-🔗 [View PDF - Page 4](PASTE_PAGE_4_LINK)
+![p](https://github.com/MAHFUZATUL-BUSHRA/Metabase_Maven-Toys/blob/main/Metabase%20Project/Pictures/8.png)
+![p](https://github.com/MAHFUZATUL-BUSHRA/Metabase_Maven-Toys/blob/main/Metabase%20Project/Pictures/9.png)
 
 ### 📘 Page 5 – Sales Analysis Dashboard  
-🔗 [View PDF - Page 5](PASTE_PAGE_5_LINK)
+![p](https://github.com/MAHFUZATUL-BUSHRA/Metabase_Maven-Toys/blob/main/Metabase%20Project/Pictures/10.png)
+![p](https://github.com/MAHFUZATUL-BUSHRA/Metabase_Maven-Toys/blob/main/Metabase%20Project/Pictures/11.png)
 
-### 📘 Page 6 – Inventory & Stock Insights  
-🔗 [View PDF - Page 6](PASTE_PAGE_6_LINK)
-
-### 📘 Page 7 – Store-wise & Product-wise Performance  
-🔗 [View PDF - Page 7](PASTE_PAGE_7_LINK)
-
-### 📘 Page 8 – Key Business Insights  
-🔗 [View PDF - Page 8](PASTE_PAGE_8_LINK)
-
-### 📘 Page 9 – Conclusion & Learnings  
-🔗 [View PDF - Page 9](PASTE_PAGE_9_LINK)
 
 ---
 
@@ -69,11 +64,11 @@ This project analyzes the **Maven Toys dataset** to uncover insights on sales pe
 ---
 
 ## ▶️ How to Run the Project
-1. Clone this repository  
-2. Run Docker containers for Supabase & Metabase  
-3. Load the Maven Toys dataset into Supabase  
-4. Connect Metabase to the database  
-5. Explore dashboards and visualizations  
+ 
+1. Run Docker containers for Supabase & Metabase  
+2. Load the Maven Toys dataset into Supabase  
+3. Connect Metabase to the database  
+4. Explore dashboards and visualizations  
 
 ---
 
@@ -83,5 +78,5 @@ This project analyzes the **Maven Toys dataset** to uncover insights on sales pe
 ---
 
 ## 👩‍💻 Author
-**Bushra Tisa**  
-Data Analyst | SQL | Python | Power BI | Machine Learning Enthusiast
+** Mahfuzatul Bushra **  
+
