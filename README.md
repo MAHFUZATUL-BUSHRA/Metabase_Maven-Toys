@@ -27,7 +27,7 @@ This project analyzes the **Maven Toys dataset** to uncover insights on sales pe
 ![p](https://github.com/MAHFUZATUL-BUSHRA/Metabase_Maven-Toys/blob/main/Metabase%20Project/Pictures/1.png)
 ![p](https://github.com/MAHFUZATUL-BUSHRA/Metabase_Maven-Toys/blob/main/Metabase%20Project/Pictures/2.png)
 
-### 📘 Page 2 – Dataset Overview (Maven Toys)  
+### 📘 Page 2
 ![p](https://github.com/MAHFUZATUL-BUSHRA/Metabase_Maven-Toys/blob/main/Metabase%20Project/Pictures/3.png)
 ![p](https://github.com/MAHFUZATUL-BUSHRA/Metabase_Maven-Toys/blob/main/Metabase%20Project/Pictures/4.png)
 
