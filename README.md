@@ -1,7 +1,6 @@
 # 🧸 Mexico Toy Sales & Inventory Analysis using Metabase
 
-🚀 I explored **Metabase with Supabase**, spinning everything up using **Docker**.  
-This project analyzes the **Maven Toys dataset** to uncover insights on sales performance and inventory trends using interactive BI dashboards.
+🚀 I explored **Metabase with Supabase**, spinning everything up using **Docker**.This project analyzes the **Maven Toys dataset** to uncover insights on sales performance and inventory trends using interactive BI dashboards.
 ---
 
 🔗 [Download Full PDF](https://github.com/MAHFUZATUL-BUSHRA/Metabase_Maven-Toys/blob/main/Metabase%20Project/Mexico%20Toy%20Sales%20%26%20Inventory%20Analysis%20using%20Metabase.pdf.pdf)
@@ -80,5 +79,5 @@ This project analyzes the **Maven Toys dataset** to uncover insights on sales pe
 ---
 
 ## 👩‍💻 Author
-** Mahfuzatul Bushra **  
+**Mahfuzatul Bushra**  
 
